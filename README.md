@@ -1,8 +1,8 @@
 # Sign-Language-Detection_Project
 
-## Steps to change the code
-constants
-entity
-components
-pipelines
-app.py
+## Steps to code using below hierarchy
+1. constants
+2. entity
+3. components
+4. pipelines
+5. app.py
